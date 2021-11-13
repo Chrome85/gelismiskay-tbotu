@@ -14,3 +14,6 @@
 * ```npm i``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node .``` yaz ve botu başlat.
 
+**Botun lisansı bulunmaktadır**
+
+Hepinize İyi Kullanımlar <3
